@@ -2,31 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aad348d-4593-40a6-b34e-22143f4b9e69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Arrow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Ice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ThirdPage/FirstSlide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ThirdPage/GraphArrow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ThirdPage/GraphBlock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ThirdPage/GraphNode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ThirdPage/SecondSlide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ThirdPage/ThirdSlide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/ThirdPage/GraphNode-Arrow.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FirstPage/FirstPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FirstPage/FirstPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FirstPage/FirstPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FirstPage/FirstPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SecondPage/SecondPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SecondPage/SecondPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SecondPage/SecondPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SecondPage/SecondPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Arrow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Arrow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ThirdPage/SecondSlide.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThirdPage/SecondSlide.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ThirdPage/ThirdPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThirdPage/ThirdPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ThirdPage/ThirdPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThirdPage/ThirdPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bottom.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/top.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/top.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +55,8 @@
       <workItem from="1597617703646" duration="6920000" />
       <workItem from="1597653559412" duration="13800000" />
       <workItem from="1597677567804" duration="22255000" />
-      <workItem from="1597738485969" duration="13132000" />
+      <workItem from="1597738485969" duration="13817000" />
+      <workItem from="1597768065404" duration="4600000" />
     </task>
     <servers />
   </component>
@@ -98,9 +80,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597754241318" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597750124144">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597771848119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597750124144" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597771848119" />
   </component>
 </project>

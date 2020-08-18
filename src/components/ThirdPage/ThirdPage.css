@@ -68,6 +68,7 @@
     height: 70px;
     background: url("../../images/ThirdPage/slider.png") no-repeat;
     background-size: contain;
+    user-select: none;
     cursor: pointer;
     transition: value 1s ease-in;
 }

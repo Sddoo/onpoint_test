@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import FirstPage from './FirstPage/FirstPage';
 import SecondPage from './SecondPage/SecondPage';
 import ThirdPage from './ThirdPage/ThirdPage';
@@ -14,6 +14,9 @@ const Dots = () => {
 };
 
 const App = () => {
+	let [curPage] = useState(0);
+	let [lastPos] = useState(0);
+	
 	function showSelected() {
 		const dots = document.querySelectorAll('.Dots-Item');
 		
@@ -25,6 +28,23 @@ const App = () => {
 		else if (window.pageYOffset > 768)
 			dots[2].classList.add('Selected');
 	}
+	
+	window.addEventListener('touchend', () => {
+		const dots = document.querySelectorAll('.Dots-Item');
+		
+		if (window.pageYOffset < lastPos) {
+			dots.forEach((elem) => elem.classList.remove('Selected'));
+			curPage -= 1;
+			lastPos = curPage * 768;
+			window.scrollTo(0, lastPos);
+		} else if (window.pageYOffset > lastPos) {
+			dots.forEach((elem) => elem.classList.remove('Selected'));
+			curPage += 1;
+			lastPos = curPage * 768;
+			window.scrollTo(0, lastPos);
+		}
+		dots[curPage].classList.add('Selected');
+	});
 	
 	return (
 		<div className="PageWrap" onLoad={showSelected}>

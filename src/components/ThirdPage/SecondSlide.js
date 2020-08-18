@@ -24,7 +24,7 @@ const SecondSlide = () => {
 			<div className="Slide-Content">
 				<Ice img={Ice3} top={'120px'} left={'-100px'} width={100}/>
 				<Ice img={Ice4} top={'0px'} left={'400px'} width={50}/>
-				<Ice img={Ice5} top={'350px'} left={'820px'} width={150}/>
+				<Ice img={Ice5} top={'350px'} left={'775px'} width={150}/>
 				<h2>Смертельный октет</h2>
 				<div className="Graph Slide-Graph">
 					<GraphNode position={{top: '105px', left: '15px'}}
