@@ -1,0 +1,24 @@
+.SecondPage {
+    position: relative;
+    color: white;
+    background-image: url("../../images/SecondPage/bg.png");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SecondLayer {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
+
+.SecondLayer > h1 {
+    font-size: 40pt;
+    font-weight: 500;
+    width: 50vw;
+    margin: 20% auto auto auto;
+    text-align: center;
+}
+

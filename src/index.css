@@ -1,3 +1,8 @@
+html, body{
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +15,72 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.PageWrap {
+    width: auto;
+    height: auto;
+}
+
+.Page {
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.Ice {
+    position: absolute;
+    z-index: -1;
+}
+
+/*Arrow*/
+.Arrow {
+    position: absolute;
+    color: white;
+    width: 100px;
+    height: 70px;
+}
+
+.Arrow_position_top {
+    position: absolute;
+    display: flex;
+    text-align: center;
+    flex-direction: column-reverse;
+    top: 0;
+    z-index: 200;
+}
+
+.Arrow_position_top > img{
+    transform: rotate(180deg);
+}
+
+.Arrow_position_bottom {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    bottom: 0;
+}
+
+/*Dots*/
+.Dots {
+    position: fixed;
+    right: 0;
+    top: 50vh;
+    width: 30px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Dots-Item {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.Selected {
+    background-color: #f78b1f;
+    transition: background-color 0.7s;
 }

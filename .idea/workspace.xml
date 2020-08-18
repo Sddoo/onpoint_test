@@ -1,13 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3aad348d-4593-40a6-b34e-22143f4b9e69" name="Default Changelist" comment="" />
+    <list default="true" id="3aad348d-4593-40a6-b34e-22143f4b9e69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Arrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Ice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ThirdPage/FirstSlide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ThirdPage/GraphArrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ThirdPage/GraphBlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ThirdPage/GraphNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ThirdPage/SecondSlide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ThirdPage/ThirdSlide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ThirdPage/GraphNode-Arrow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FirstPage/FirstPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FirstPage/FirstPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FirstPage/FirstPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FirstPage/FirstPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SecondPage/SecondPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SecondPage/SecondPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SecondPage/SecondPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SecondPage/SecondPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ThirdPage/ThirdPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThirdPage/ThirdPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ThirdPage/ThirdPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThirdPage/ThirdPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/top.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/top.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1g5YkO33Qjnvi3zCq8uNBV2w1Ca" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,8 +45,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Владислав\WebstormProjects\onpoint_task\src\components\ThirdPage" />
+      <recent name="C:\Users\Владислав\WebstormProjects\onpoint_task\src\images\SecondPage" />
+      <recent name="C:\Users\Владислав\WebstormProjects\onpoint_task\src\images" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -28,11 +66,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597406062764</updated>
-      <workItem from="1597406065229" duration="242000" />
+      <workItem from="1597406065229" duration="11986000" />
+      <workItem from="1597478433087" duration="10452000" />
+      <workItem from="1597496622148" duration="4330000" />
+      <workItem from="1597568716912" duration="10116000" />
+      <workItem from="1597589393952" duration="7051000" />
+      <workItem from="1597617703646" duration="6920000" />
+      <workItem from="1597653559412" duration="13800000" />
+      <workItem from="1597677567804" duration="22255000" />
+      <workItem from="1597738485969" duration="13132000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#JavaScript" timestamp="1597679614915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#JavaScript/0.0.1920.1040@0.0.1920.1040" timestamp="1597679614915" />
+    <state x="730" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597665583157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597665583157" />
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1597490144336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597490144336" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1597754241318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597754241318" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597750124144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597750124144" />
   </component>
 </project>

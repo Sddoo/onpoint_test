@@ -1,0 +1,75 @@
+:root {
+    --sun-width: 500vw;
+    --sun-height: calc(var(--sun-width));
+}
+
+.FirstPage {
+    position: relative;
+    overflow: hidden;
+    color: #0d319c;
+    background-image: url("../../images/FirstPage/bg.png");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.FirstLayer {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
+
+.FirstLayer > h1 {
+    font-size: 40pt;
+    font-weight: 500;
+    width: 70vw;
+    margin: 10% auto auto 10%;
+}
+
+.Point {
+    position: absolute;
+    display: flex;
+    text-align: center;
+}
+
+.Point-Text {
+    font-size: 20pt;
+}
+
+.Point-Circle {
+    background-image: radial-gradient(rgb(222,121,27), rgb(207,20,55));
+    animation: pulse 3s infinite;
+    box-shadow: 0 0 0 rgba(222, 121, 27, 0.4);
+}
+
+.Point-CircleContent {
+    background-image: radial-gradient(rgb(222,121,27), rgb(207,20,55));
+    animation: pulse 1s infinite;
+    box-shadow: 0 0 0 rgba(222, 121, 27, 0.4);
+}
+
+@keyframes pulse {
+    0% {
+        -moz-box-shadow: 0 0 0 0 rgba(222, 121, 27, 0.4);
+        box-shadow: 0 0 0 0 rgba(222, 121, 27, 0.4);
+    }
+    50% {
+        -moz-box-shadow: 0 0 0 10px rgba(222, 121, 27, 0.5);
+        box-shadow: 0 0 0 10px rgba(222, 121, 27, 0.5);
+    }
+    100% {
+        -moz-box-shadow: 0 0 0 0 rgba(222, 121, 27, 0);
+        box-shadow: 0 0 0 0 rgba(222, 121, 27, 0);
+    }
+}
+
+.Sun {
+    position: absolute;
+    bottom: calc(var(--sun-height) * -1);
+    width: var(--sun-width);
+    height: var(--sun-height);
+    border-radius: var(--sun-height);
+    margin: auto;
+    box-shadow: 0 -5px 20px 30px rgb(247, 139, 31);
+}
